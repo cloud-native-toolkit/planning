@@ -1,10 +1,15 @@
-# Catalyst Team
+# IBM Garage for Cloud Developer Tools Planning Project
 
-The catalyst team are focused on helping Garage teams accelerate MVPs and production engagements using Kubernetes technology across public cloud and OpenShift. We are focusing on three areas:
+This project is focused on helping Garage teams accelerate MVPs and production engagements using Kubernetes technology across public cloud and OpenShift. We are focusing on three areas:
 
 1. *Iteration Zero*, how does a team create a development environment that will support their cloud native development needs using Kubernetes
 2. *Activation*, help grow skills in key areas from TDD, Pact Testing, DevOps , etc and that project teams have the necessary skills to support the project
 3. *Starter Kits*, provide a set of robust starter code to accelerate the project inception and initial architectural decisions
+4. Enable solution development with IBM Cloud Paks
+5. Make cloud native development as easy as possible 
+6. Introduct emerging technologies like Tekton, Solsa to Garage developers for use with projects
+
+Use this project to raise issues, manage epics , tasks and stories, use Zenhub to manage the Kanban board
 
 # Contribution
 
@@ -17,5 +22,4 @@ Read the following contribution guidelines to help support the work.
 
 # Content
 
-- [Starter kits](./docs/starter-kits)
 - [Contributing Garage Method content](./docs/contributing-garage-method-content)
