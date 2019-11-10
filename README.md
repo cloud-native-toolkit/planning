@@ -7,7 +7,7 @@ This project is focused on helping Garage teams accelerate MVPs and production e
 3. *Starter Kits*, provide a set of robust starter code to accelerate the project inception and initial architectural decisions
 4. Enable solution development with IBM Cloud Paks
 5. Make cloud native development as easy as possible 
-6. Introduct emerging technologies like Tekton, Solsa to Garage developers for use with projects
+6. Introduce emerging technologies like Tekton, Solsa to Garage developers for use with projects 
 
 Use this project to raise issues, manage epics , tasks and stories, use Zenhub to manage the Kanban board
 
