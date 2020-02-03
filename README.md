@@ -11,6 +11,12 @@ This project is focused on helping Garage teams accelerate MVPs and production e
 
 Use this project to raise issues, manage epics , tasks and stories, use Zenhub to manage the Kanban board
 
+# Iteration planning meetings
+
+We will conduct weekly meetings to plan the stories that will be addressed for the week (and identify who will be available to work on issues during the week.) These meetings are open to anyone who would participate.
+
+Mondays, 11am EST, https://ibm.webex.com/meet/seansund
+
 # Planning board
 
 https://github.com/ibm-garage-cloud/planning#workspaces/garage-cloud-tools-planning-5e290eb803d0cf9574c7d321/board?repos=220783094,209322627,235270089,206848279,194922712,215867112,213934348,215811182,218581979,224035701,198499224,198750718,198909549,193133606,193136242,192769591,191882111
