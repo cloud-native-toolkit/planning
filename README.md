@@ -23,9 +23,7 @@ https://github.com/ibm-garage-cloud/planning#workspaces/garage-cloud-tools-plann
 
 # Personas
 
-- Dave the developer
-- Susan the SRE
-- Pat the sys admin
+https://cdai-design.w3ibm.mybluemix.net/research/personas?tab=persona-gallery
 
 # Contribution
 
