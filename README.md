@@ -4,7 +4,7 @@ This project is focused on helping Garage teams accelerate MVPs and production e
 
 1. *Iteration Zero*, how does a team create a development environment that will support their cloud native development needs using Kubernetes
 2. *Activation*, help grow skills in key areas from TDD, Pact Testing, DevOps , etc and that project teams have the necessary skills to support the project
-3. *Starter Kits*, provide a set of robust starter code to accelerate the project inception and initial architectural decisions
+3. *Code Patterns*, provide a set of robust starter code to accelerate the project inception and initial architectural decisions
 4. Enable solution development with IBM Cloud Paks
 5. Make cloud native development as easy as possible 
 6. Introduce emerging technologies like Tekton, Solsa to Garage developers for use with projects 
