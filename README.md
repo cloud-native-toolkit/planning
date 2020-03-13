@@ -19,7 +19,7 @@ Mondays, 11am EST, https://ibm.webex.com/meet/seansund
 
 # Planning board
 
-https://github.com/ibm-garage-cloud/planning#workspaces/garage-cloud-tools-planning-5e290eb803d0cf9574c7d321/board?repos=220783094,209322627,235270089,206848279,194922712,215867112,213934348,215811182,218581979,224035701,198499224,198750718,198909549,193133606,193136242,192769591,191882111
+http://bit.ly/garage-cloudnative-toolkit-planning
 
 # Personas
 
