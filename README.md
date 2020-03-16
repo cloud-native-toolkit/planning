@@ -23,6 +23,8 @@ http://bit.ly/garage-cloudnative-toolkit-planning
 
 # Personas
 
+- Carlos the Site Reliability Engineer ![Carlos the SRE](https://cdai-design.w3ibm.mybluemix.net/wp-content/uploads/2019/01/SRE_Carlos.jpg)
+
 https://cdai-design.w3ibm.mybluemix.net/research/personas?tab=persona-gallery
 
 # Contribution
