@@ -23,9 +23,14 @@ http://bit.ly/garage-cloudnative-toolkit-planning
 
 # Personas
 
-- Maureen the Developer ![Maureen the Developer](./docs/images/avatar-persona-maureen.jpg)
-- Carlos the Site Reliability Engineer ![Carlos the SRE](./docs/images/SRE_Carlos.jpg)
-- RJ the Operations Engineer ![RJ the Operations Engineer](./docs/images/avatar-persona-rj.jpg)
+- Maureen the Developer 
+    ![Maureen the Developer](./docs/images/avatar-persona-maureen.jpg)
+
+- Carlos the Site Reliability Engineer 
+    ![Carlos the SRE](./docs/images/SRE_Carlos.jpg)
+
+- RJ the Operations Engineer 
+    ![RJ the Operations Engineer](./docs/images/avatar-persona-rj.jpg)
 
 https://cdai-design.w3ibm.mybluemix.net/research/personas?tab=persona-gallery
 
