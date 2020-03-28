@@ -1,4 +1,4 @@
-# IBM Garage for Cloud Developer Tools Planning Project
+# IBM Garage Cloud Native Toolkit Planning Project
 
 This project is focused on helping Garage teams accelerate MVPs and production engagements using Kubernetes technology across public cloud and OpenShift. We are focusing on three areas:
 
@@ -8,6 +8,7 @@ This project is focused on helping Garage teams accelerate MVPs and production e
 4. Enable solution development with IBM Cloud Paks
 5. Make cloud native development as easy as possible 
 6. Introduce emerging technologies like Tekton, Solsa to Garage developers for use with projects 
+7. Support the need for Cloud Pak solutions using the Cloud Native Toolkit Open Source SDLC
 
 Use this project to raise issues, manage epics , tasks and stories, use Zenhub to manage the Kanban board
 
