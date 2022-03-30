@@ -25,7 +25,9 @@ http://bit.ly/garage-cloudnative-toolkit-planning
 # Personas
 
 - Tammy the Tech Seller
-- 
+
+    ![image](https://user-images.githubusercontent.com/102552179/160931954-96ead19f-db5c-4dc5-8c53-908a27befa45.png)
+
 - Maureen the Developer 
 
     ![Maureen the Developer](./docs/images/avatar-persona-maureen.jpg)
