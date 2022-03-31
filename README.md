@@ -34,7 +34,7 @@ http://bit.ly/garage-cloudnative-toolkit-planning
 
 - Carlos the Site Reliability Engineer 
 
-    ![Carlos the SRE](./docs/images/SRE_Carlos.jpg)
+    ![image](https://user-images.githubusercontent.com/102552179/161148385-6b6849d6-f21f-4f4c-9036-1d6788eed565.png)
 
 - RJ the Operations Engineer 
 
